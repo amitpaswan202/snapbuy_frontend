@@ -1,0 +1,22 @@
+{
+    "categories": [
+      {
+        "id": "1",
+        "title": "Category 1",
+        "attributes": {
+          "title": "Category Title 1",
+          "image": "../../../assets/category/cat-1.jpg"
+          
+        }
+      },
+      {
+        "id": "2",
+        "title": "Category 2",
+        "attributes": {
+          "title": "Category Title 2",
+          "image": "../../../assets/category/cat-1.jpg"
+          
+        }
+      }
+    ]
+  }
