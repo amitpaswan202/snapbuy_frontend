@@ -35,7 +35,7 @@ const Footer = () => {
                     <span className="text">Smart Watches</span>
                     <span className="text">Bluetooth Speakers</span>
                     <span className="text">Wireless Earbuds</span>
-                    <span className="text">Home wear</span>
+                    <span className="text">Home application</span>
                     <span className="text">Headphone</span>
                 </div>
                 <div className="col">
